@@ -1,4 +1,18 @@
-### Hi there 👋
+### Welcome everyone
+## I'm a full-stack dev dabbling in Machine Learning/AI
+### I know...
+ - C++
+ - Python
+ - Pandas
+ - Numpy
+ - Optuna
+ - Next.JS
+### I'm still learning...
+ - React Native
+ - Flutter
+ - Embedded C++ 
+## If You'd like to know me better, [check out my website](https://www.rajzer.dev/)
+## If You'd like to collab or employ me, please reach out to me [here](https://www.rajzer.dev/contact)
 
 <!--
 **lrajzer/lrajzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
