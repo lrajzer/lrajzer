@@ -10,7 +10,8 @@
 ### I'm still learning...
  - React Native
  - Flutter
- - Embedded C++ 
+ - Embedded C++
+ - Verilog
 ## If You'd like to know me better, [check out my website](https://www.rajzer.dev/)
 ## If You'd like to collab or employ me, please reach out to me [here](https://www.rajzer.dev/contact)
 
